@@ -1,1 +1,1 @@
-# mayurikul9
+This is my personal repository as sample
